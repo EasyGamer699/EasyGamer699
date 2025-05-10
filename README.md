@@ -1,4 +1,5 @@
 # 💫 About Me:
+I'm an 15 year old DEV , based in Germany.
 I'm currently working on re-scripting an complete fivem server dump just for fun and to learn lua. scripting etc.
 
 
